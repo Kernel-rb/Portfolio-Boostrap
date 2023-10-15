@@ -9,7 +9,7 @@ This repository houses my portfolio project, crafted during a coding bootcamp, s
 - Includes an assets folder for images, icons, and related resources.
 
 🔗 Live Demo
-[Check out the live demo](<insert_live_demo_url_here>)
+[Check out the live demo](<https://kernel-rb.github.io/Portolio-X1/index.html>)
 
 📁 Project Structure
 - `index.html`: The main landing page of the portfolio.
